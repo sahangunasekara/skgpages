@@ -10,7 +10,7 @@ Welcome to Magicblocks's documentation!
    :maxdepth: 2
    :caption: Contents:
 
-   documentation
+
 
 Indices and tables
 ==================
